@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 import cohere
 
 # Initialize TrOCR Model and Processor
